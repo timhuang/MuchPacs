@@ -1,3 +1,14 @@
-#Directories not need in the project
+#Directories
 Library/
 Temp/
+BuildOutput/
+doxygen_output/
+
+#source project files
+Assembly-CSharp*
+Assembly-UnityScript*
+*.sln
+*.csproj
+*.user
+*.userprefs
+*.DS_store
