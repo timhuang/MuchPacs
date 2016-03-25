@@ -12,3 +12,5 @@ Assembly-UnityScript*
 *.user
 *.userprefs
 *.DS_store
+sh.exe.stackdump
+.vs/
